@@ -1,0 +1,13 @@
+.header {
+
+  width: 19.2rem;
+  height: 1rem;
+  background-image: url(@/assets/bg/title.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  color: rgb(226, 226, 255);
+  font-size: 0.4rem;
+
+}
