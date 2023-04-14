@@ -6,3 +6,4 @@ this is a smartPack by Three.js and JavaScript
 数字大屏模块：DigitalScreen.vue
 三维开发部分：src/component/three
 功能模块：src/component/three/mesh
+demo：https://sugs-m.github.io/SmartPack.github.io/
