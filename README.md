@@ -3,7 +3,7 @@ this is a smartPack by Three.js and JavaScript
 
 智慧园区demo
 ---
-功能：数字大屏、分层展示、单层展示、展厅爆炸特效与复原、曲线运动、射线拾取、场景漫游
+功能：数字大屏、分层展示、单层展示、展品爆炸特效与复原、曲线运动、射线拾取、场景漫游
 ---
 数字大屏模块：DigitalScreen.vue
 
