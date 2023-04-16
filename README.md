@@ -1,6 +1,6 @@
 # 智慧园区
-this is a smartPack by Three.js and JavaScript; 
-as a Initial template for 3D programming
+this is a smartPack by Three.js and JavaScript.       
+as a Initial template for 3D programming.     
 功能：数字大屏、CSS3D标签、射线拾取、场景切换、点击交互、展品爆炸特效与复原、曲线运动、场景漫游、分层展示、单层展示
 
 ## 构建
