@@ -59,7 +59,7 @@ template
           │ Scene.vue                                       // 三维场景组件
           | DigitalScreen                                   // 二维大屏组件
           └─utils                                           // 事件监听转发工具
-                 eventHub.js                                      // 事件触发
+          |      eventHub.js                                      // 事件收发
           └─three                                           // 三维场景目录                   
               │  animate.js                                       // 动画相关
               │  axesHelper.js                                    // 辅助坐标轴相关
